@@ -1,0 +1,7 @@
+pandas
+plotly
+dash
+pyod
+openpyxl
+gunicorn
+requests
